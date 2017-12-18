@@ -1,1 +1,1 @@
-# finance_ds
+# kaggle competition - givemesomecredit
